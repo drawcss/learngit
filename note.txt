@@ -1,0 +1,14 @@
+git clone *repository on github*
+// Clone source from github to computer
+
+git status 
+// Check status 
+
+git add .
+// Add all edited or changed file
+
+git commit -m "Message"
+// Save source in local
+
+git push
+// Push source from computer to github
