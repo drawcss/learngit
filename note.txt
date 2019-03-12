@@ -12,3 +12,6 @@ git commit -m "Message"
 
 git push
 // Push source from computer to github
+
+git pull
+// Sync source code between computer and github
